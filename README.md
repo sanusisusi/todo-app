@@ -1,6 +1,9 @@
-# React Tutorial – The Beginners Guide to Learning React JS in 2021
+# SUSI Todo App
 
-## Clone the starter project
+## Live preview
+sanusisusi.github.io/todo-app/
+
+### Clone the starter project
 
 You can download or clone this project by running this command from your terminal:
 
