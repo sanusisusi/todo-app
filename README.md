@@ -3,6 +3,9 @@
 ## Live preview
 sanusisusi.github.io/todo-app/
 
+## Screenshot/Preview
+  ![Todo App preview](https://github.com/sanusisusi/todo-app/blob/gh-pages/todo-app%20preview.png)
+
 ### Clone the starter project
 
 You can download or clone this project by running this command from your terminal:
